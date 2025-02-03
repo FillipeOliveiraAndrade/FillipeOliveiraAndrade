@@ -7,7 +7,7 @@
 
 - 💬 Se precisar de ajuda, me chama para conversarmos sobre **TypeScript, JavaScript, Node.js, React.js, Express, Jest, Mocha, RTL, MySQL e MongoDB**
 
-- 📫 Você pode entrar em contato comigo no **efipee17@gmail.com**
+- 📫 Você pode entrar em contato comigo no **fillipe.andrade20@gmail.com**
 
 
 <h3 align="left">Me encontre em:</h3>
